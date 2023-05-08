@@ -11,4 +11,4 @@ Wymagania:
 6 Informacje o objazdach, trasa na której występuje objazd posiada 
   informację którędy jest poprowadzony objazd oraz w przypadku kiedy na 
   objeździe występują przystanki również taką informacje posiada
-7 Bezpieczeństwo, nie uprawnieni pracownicy nie są w stanie modyfikować danyc
+7 Bezpieczeństwo, nie uprawnieni pracownicy nie są w stanie modyfikować danych
